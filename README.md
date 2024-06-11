@@ -56,11 +56,7 @@ I am committed to solving and uploading at least one LeetCode question every day
 
 Feel free to fork this repository, open issues, and submit pull requests if you have better solutions or improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Happy Coding!
 
